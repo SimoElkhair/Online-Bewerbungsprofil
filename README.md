@@ -7,7 +7,7 @@ Willkommen auf meinem Portfolio! Ich bin **Mohamed Elkhair**, ein aufstrebender 
 - **Beschreibung**: Eine persönliche Website, die meine Fähigkeiten, Projekte und berufliche Erfahrung präsentiert.
 - **Verwendete Technologien**: HTML5, CSS3, JavaScript.
 - **Ziel**: Eine professionelle und strukturierte Präsentation meiner Arbeit.
-- **Website-Link**: [📝 Mein Portfolio](https://github.com/SimoElkhair/My-Personal-Porfolio)
+- **Website-Link**: [📝 Mein Portfolio](https://simoelkhair.github.io/My-Personal-Porfolio/)
 
 ### 2. **Memory-Spiel**
 - **Beschreibung**: Ein interaktives Memory-Spiel, das im Browser gespielt werden kann, bei dem der Benutzer übereinstimmende Kartenpaare finden muss.
