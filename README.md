@@ -7,7 +7,7 @@ Willkommen auf meinem Portfolio! Ich bin **Mohamed Elkhair**, ein aufstrebender 
 - **Beschreibung**: Eine persönliche Website, die meine Fähigkeiten, Projekte und berufliche Erfahrung präsentiert.
 - **Verwendete Technologien**: HTML5, CSS3, JavaScript.
 - **Ziel**: Eine professionelle und strukturierte Präsentation meiner Arbeit.
-- **Website-Link**: [🌐 Mein Portfolio](https://github.com/SimoElkhair/My-Personal-Porfolio)
+- **Website-Link**: [📝 Mein Portfolio](https://github.com/SimoElkhair/My-Personal-Porfolio)
 
 ### 2. **Memory-Spiel**
 - **Beschreibung**: Ein interaktives Memory-Spiel, das im Browser gespielt werden kann, bei dem der Benutzer übereinstimmende Kartenpaare finden muss.
@@ -32,9 +32,8 @@ Um dieses Projekt lokal auszuführen, folge diesen einfachen Schritten:
 Wenn Sie Fragen haben oder mit mir zusammenarbeiten möchten, können Sie mich über die folgenden Kanäle erreichen:
 
 - 📧 **E-Mail**: [mohamedelkhair7@gmail.com](mailto:mohamedelkhair7@gmail.com)
-- 💬 **GitHub**: [GitHub Profil von SimoElkhair](https://github.com/SimoElkhair)
 - 📱 **Telefon**: +212 6 21 82 72 17
-- 🌍 **Standort**: Hay El Mouna 1, 26100 Berrechid, Marokko
+- 🌍 **Standort**: Marokko
 
 Ich freue mich darauf, von Ihnen zu hören! 📨
 
